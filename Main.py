@@ -3,7 +3,7 @@ def counter():
     print i
 
 def errors():
-  print("error")
+      print("error")
 
 array == [1,65,234,12,76,23]
 counter()
